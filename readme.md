@@ -11,7 +11,7 @@ You almost definitely want to use this as part of a
 This buildpack must come before your actual environment buildpack (when the process starts).
 A sample node.js `.buildpack` file may look like:
 ```
-https://github.com/jessefulton/env-procfile-buildpack.git
+https://github.com/Helpjuice/env-procfile-buildpack.git
 https://github.com/heroku/heroku-buildpack-nodejs.git
 ```
 
